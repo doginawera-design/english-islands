@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "English Islands — английский с дракончиком",
+  "short_name": "English Islands",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#f5f8fc",
+  "description": "Острова английского: слова, произношение и задания Spotlight 3.",
+  "icons": [
+    {
+      "src": "dragon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
